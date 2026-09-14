@@ -1,0 +1,10 @@
+{
+  "ssh_open_to_world": false,
+  "database_publicly_accessible": false,
+  "encryption_at_rest": true,
+  "encryption_in_transit": true,
+  "least_privilege_iam": true,
+  "logging_enabled": true,
+  "mfa_required_for_privileged_users": true,
+  "unused_ports_blocked": true
+}
